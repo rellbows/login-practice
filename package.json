@@ -1,0 +1,24 @@
+{
+  "name": "login-practice",
+  "version": "1.0.0",
+  "description": "simple login page in node/express utilizing passport and bcrypt libraries.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "login",
+    "node",
+    "express",
+    "passport",
+    "bcrypt"
+  ],
+  "author": "Ryan Ellis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
