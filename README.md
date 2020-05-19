@@ -21,3 +21,6 @@ Once the required modules are installed, run the below command in the terminal t
 Scripts were tested on a MacBook Pro running macOS Mojave ver. 10.14.6. Web browser used for testing was Mozzilla Firefox.
 
 ## Bugs/TODOS:
+
+1. Basic portal functionality setup using express libraries. Need to deploy
+Passport.js library next.
