@@ -3,4 +3,9 @@ package-lock.json
 node_modules
 
 # generated files
-*/.DS_store
+.DS_Store
+*/.DS_Store
+
+# db/schema
+dbcon.js
+login-practice-schema.sql
